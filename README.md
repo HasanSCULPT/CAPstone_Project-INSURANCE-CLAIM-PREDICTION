@@ -45,4 +45,8 @@ All artifacts are saved using joblib. Reload tests confirm consistent prediction
 
 🚀 Deployment Readiness
 
-The model is ready for integration into underwriting or risk-monitoring pipelines, with periodic retraining recommended.
+The model is ready for integration into underwriting or risk-monitoring pipelines, with periodic retraining recommended. 
+
+Author:
+Hassan Yusuf Afolabi
+(HasanSCULPT)
